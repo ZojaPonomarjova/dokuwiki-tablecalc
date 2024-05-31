@@ -1,0 +1,7 @@
+base   tablecalc
+author Sergey Gryaznov
+email  stalker@narezka.org
+date   2020-08-27
+name   TableCalc Plugin
+desc   Table Calculation
+url    https://www.dokuwiki.org/plugin:tablecalc
